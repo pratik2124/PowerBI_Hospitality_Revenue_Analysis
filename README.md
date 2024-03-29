@@ -13,5 +13,9 @@ This PowerBI project aims to analyze hospitality revenue, providing insights to 
 + Luxury Category hotels has generated more revenue as compared to business category hotels.
 + Highest Revenue was generated in the month of May as compared to June and July Months. 
 
+## Dashboard
+
+![Hospitality Revenue Dashboard](https://github.com/pratik2124/PowerBI_Hospitality_Revenue_Analysis/assets/156676954/7447fa19-922f-4889-8362-c9c112014b2f)
+
 
 
