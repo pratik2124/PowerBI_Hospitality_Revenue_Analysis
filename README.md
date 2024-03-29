@@ -7,7 +7,10 @@ This PowerBI project aims to analyze hospitality revenue, providing insights to 
 
 + The Revenue Generated is Highest for Mumbai city whereas Delhi has generated the lowest revenue.
 + Bangalore exhibits the lowest occupancy rate amongst all the cities.
-+ RevPAR and Occupancy rates
++ RevPAR and Occupancy rates are higher during weekends as compared to weekdays.
++ Elite room types contribute the most to revenue, while standard room types generate the least.
++ Atliq Exotica contributes highest revenue amongst all other hotels.
++ 
 
 
 
