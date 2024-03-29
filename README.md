@@ -10,6 +10,7 @@ This PowerBI project aims to analyze hospitality revenue, providing insights to 
 + RevPAR and Occupancy rates are higher during weekends as compared to weekdays.
 + Elite room types contribute the most to revenue, while standard room types generate the least.
 + Atliq Exotica contributes highest revenue amongst all other hotels.
++ Luxury Category hotels has generated more revenue as compared to business category hotels.
 + 
 
 
